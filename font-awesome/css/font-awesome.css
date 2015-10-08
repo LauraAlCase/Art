@@ -1717,6 +1717,14 @@
 .fa-ship:before {
   content: "\f21a";
 }
+.fa-gift
+{
+content: "\f06b";
+}
+.fa-scissors
+{
+content: "\f0c4";
+}
 .fa-user-secret:before {
   content: "\f21b";
 }
